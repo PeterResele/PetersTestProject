@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        myLabel.text = "Hello World"
+        myLabel.text = "Master change"
     }
 
     override func didReceiveMemoryWarning() {
